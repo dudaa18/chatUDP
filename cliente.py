@@ -2,8 +2,8 @@ import os
 import socket
 import threading
 
-hostServidor = '<IP_DA_MAQUINA_QUE_VAI_RODAR_O_SERVIDOR>'
-host = '<IP_DA_MAQUINA_QUE_VAI_RODAR_O_CLIENTE>' 
+hostServidor = '10.113.60.230'
+host = '10.113.60.224' 
 porta = 12346  # PORTA QUE O CLIENTE VAI OUVIR
 portaDestino = 12345 # PORTA QUE O SERVIDOR ESTÁ OUVINDO
 
